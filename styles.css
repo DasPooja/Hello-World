@@ -188,7 +188,7 @@ header nav a {
 
 .right-section {
   flex: 2; /* 40% */
-  background-image: url("/assets/images/backgroundImage.png");
+  background-image: url("assets/images/backgroundImage.png");
   background-color: #f1f6fe;
   background-size: cover;
   background-position: center;
